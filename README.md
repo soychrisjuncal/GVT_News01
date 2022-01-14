@@ -1,8 +1,6 @@
 
 # Gravity StorieTelling Digital
 
-<img src="https://i.ibb.co/mzb7gDD/master.jpg">
-
 Newsletter informativo sobre las novedades de Gravity Gafas
 
 ---
